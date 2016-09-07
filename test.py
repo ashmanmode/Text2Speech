@@ -16,3 +16,5 @@ fnew = theano.function([x],fp)
 
 print fnew(2.3)
 
+#Simple tensors
+
